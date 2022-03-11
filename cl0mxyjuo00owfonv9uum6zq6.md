@@ -59,7 +59,7 @@ If you're on a Windows device, you can only run canvas apps; model-driven apps a
 **Install Power Apps mobile app
 **
 
-To follow this procedure, if you're not signed up for Power Apps, sign up for free. Also, make sure you have access to a model-driven app or canvas app that you created or that someone else created and shared with you.
+To follow this procedure, if you're not signed up for Power Apps, sign up for free[PowerApps](https://make.powerapps.com/signup?redirect=marketing&utm_source=PAMarketing&utm_medium=body&utm_campaign=getstartedfree&email=). Also, make sure you have access to a model-driven app or canvas app that you created or that someone else created and shared with you.
 
 
 1. Choose the download link for your device:
