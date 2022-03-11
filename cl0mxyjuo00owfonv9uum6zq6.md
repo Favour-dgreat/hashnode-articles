@@ -48,7 +48,7 @@ Check this out for more on Power Apps Portals - [Get started with portals
 ](https://docs.microsoft.com/en-us/learn/modules/intro-portals/2-get-started-portals)
 
 
-##Power Apps Mobile
+## Power Apps Mobile
 
 Remember I stated it earlier that Microsoft Power Apps enables the creation of web and mobile applications that run on all devices, in this section of the article we will be looking at running a power app on a mobile device. 
 
@@ -78,6 +78,7 @@ The Home is the default screen when you sign in. It shows the apps that you used
 
 For more information, check out this more detailed article [Get Started with Power Apps Mobile](https://docs.microsoft.com/en-us/powerapps/mobile/run-powerapps-on-mobile)
 
+### Learning Resources
 Lastly, I will be ending this article with learning resources to know more about Microsoft Power Apps 
 1. [Microsoft Power Apps documentation](https://docs.microsoft.com/en-us/powerapps/)
 2. [Power Apps canvas apps documentation](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps)
