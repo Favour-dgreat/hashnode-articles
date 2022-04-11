@@ -284,6 +284,12 @@ If you followed duly you should have a functioning event recording app.
 
 # Resources
 
+1. [Overview of connectors for Canvas Apps ](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/connections-list)
+2. [Use of custom connectors in a Power Apps Canvas Apps](https://docs.microsoft.com/en-us/learn/modules/use-custom-connectors-in-powerapps-canvas-app/)
+3. [Use Custom connectors with the timeline control](https://docs.microsoft.com/en-us/powerapps/maker/model-driven-apps/custom-connectors-timeline-control)
+4. [Create a canvas app from a template](https://docs.microsoft.com/en-us/power-apps/maker/canvas-apps/get-started-test-drive)
+5. [Create a canvas app with data from an Excel file](https://docs.microsoft.com/en-us/power-apps/maker/canvas-apps/get-started-create-from-data)
+
 So concluding now, a Youtube video will be released, still on this article, to better explain everything here. So, subscribe to our Youtube Channel [The Complete Hub](https://www.youtube.com/channel/UCqrjXe8zo2-F-QoQXlmVCYw) 
 
 Also, remember to Subscribe to our newsletter, like and comment on this article, and finally please share.
