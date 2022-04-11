@@ -45,7 +45,7 @@ If you followed through the authentication process you will have this screen.
 **Note: This subscription is available for free for just 90 days after which you will need to pay for it, but by joining the Microsoft Learn Student Ambassador program, you have access to all Office applications for free, throughout your ambassadorship period. This and other amazing benefits include subscriptions for various Microsoft Certification exams, to know more and become a [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/)
 **
 
-**Building a Canvas App**
+# Building an Event Recording Canvas App
 
 Now that we now have a subscription to access Office Applications, including our Power Platform products, we can now dive into [PowerApps](https://www.powerapps.com/) to start building our Canvas App.
 
@@ -269,7 +269,6 @@ Adjust the form advanced options, as seen in the image above
 
 Adjust the properties, for the icons and the button, following these images: 
 
-
 ![Screenshot 2022-04-11 at 14.38.02.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1649684451543/cuaFV6NTr.png)
 
 ![Screenshot 2022-04-11 at 14.38.08.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1649684485980/KwNiOOWz9.png)
@@ -281,6 +280,13 @@ Adjust the properties, for the icons and the button, following these images:
 If you followed duly you should have a functioning event recording app. 
 
 %[https://youtube.com/shorts/sitW9uOeTvg?feature=share]
+
+# Resources
+1. [Overview Of Connectors for Canvas Apps](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/connections-list)
+2. [Use of Custom connectors in a Power Apps Canvas App](https://docs.microsoft.com/en-us/learn/modules/use-custom-connectors-in-powerapps-canvas-app/)
+3. [Create a canvas app from a template](https://docs.microsoft.com/en-us/power-apps/maker/canvas-apps/get-started-test-drive)
+4. [Create a blank canvas app from scratch](https://docs.microsoft.com/en-us/power-apps/maker/canvas-apps/create-blank-app)
+5. [Create a canvas app with data from an Excel file](Linkhttps://docs.microsoft.com/en-us/power-apps/maker/canvas-apps/get-started-create-from-data)
 
 So concluding now, a Youtube video will be released, still on this article, to better explain everything here. So, subscribe to our Youtube Channel [The Complete Hub](https://www.youtube.com/channel/UCqrjXe8zo2-F-QoQXlmVCYw) 
 
