@@ -18,7 +18,7 @@ Azure AD B2C provides a highly customizable **User Experience** to suit and blen
 
 Check out the docs for more information [Azure Active Directory B2C](https://docs.microsoft.com/en-us/azure/active-directory-b2c/).
 
-## Using Azure AD B2C in Power Pages
+# Using Azure AD B2C in Power Pages
 Power Pages supports authentication processes and provides various authentication providers to handle authentication. 
 
 
